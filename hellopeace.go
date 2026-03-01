@@ -4,9 +4,8 @@ import "fmt"
 
 func main() {
 	fmt.Println("Hello, Peace!")
-}
 
-func main() {
+	//	Declare variables with explicit type and inferred type
 	var student1 string = "John" //type is string
 	var student2 = "Jane"        //type is inferred
 	x := 2                       //type is inferred
