@@ -22,9 +22,4 @@ func main() {
 	fmt.Println(a)
 	fmt.Println(b)
 	fmt.Println(c)
-
-	//	Declare variables with var and short variable declaration
-	var student1 string
-	student1 = "John"
-	fmt.Println(student1)
 }
